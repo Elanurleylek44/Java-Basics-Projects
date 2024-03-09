@@ -1,0 +1,4 @@
+Merhaba,
+FileReader yapısı ile içimdeki verilere ulaşabilirsiniz.
+Blog Adresim: https://emrecelen.com.tr
+Mail Adresim: me@emrecelen.com.tr

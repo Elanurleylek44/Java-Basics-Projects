@@ -1,0 +1,28 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
+/**
+ *
+ * @author elale
+ */
+public class dizitoplaması {
+    public static void main(String[] args) {
+        int a[][]={{1,3,4},{3,4,5}};
+        int b[][]={{1,3,4},{3,4,5}};
+        //toplam matrisi tutacak degisken
+        int c[][]=new int[2][3];
+        
+        for(int i=0;i<2;i++){
+            for(int j=0;j<3;j++){
+                c[i][j]=a[i][j]+b[i][j];
+                System.out.print(c[i][j]+"");
+            }
+            
+            System.out.println();      
+    }
+        
+    }
+    
+}
